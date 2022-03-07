@@ -17,7 +17,7 @@ Welcome to the Personal User Manual Template! Simply click "Use this template" a
 
 <details>
     <summary>Tips</summary>
-Optional Section: You may want to fill out this as a section to help introduce yourself to new joiners or to people from outside your team. Feel free to keep it light and don't worry about going into much detail about yourself in a professional sense, as that can be covered by later sections. Some suggested points might be where you grew up, what your hobbies are or a fun fact about yourself.
+Born and raised in Atlanta, GA. True Southern Gentleman!
 </details>
 
 ## How to Contact Me
