@@ -25,7 +25,7 @@ Optional Section: You may want to fill out this as a section to help introduce y
 
 <details>
     <summary>Tips</summary>
-Essential Section: You might want to think about some caveats here. Perhaps Slack is fine for a quick question but for longer communication you'd prefer to speak in person.
+Slack is my preferred method of communication.  I only check my email a couple times throughout the workday where as I have slack always open on the side of my screen.
 </details>
 
 ## Preferred Working Style
